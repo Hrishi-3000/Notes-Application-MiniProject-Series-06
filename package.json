@@ -38,4 +38,11 @@
       "last 1 safari version"
     ]
   }
+  {
+  "homepage": ".",
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start"
+  }
+}
 }
